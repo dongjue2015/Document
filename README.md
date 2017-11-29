@@ -8,6 +8,9 @@ Spring Boot是由Pivotal团队提供的全新框架，其设计目的是用来�
 - Spring 设计初衷，简化配置，使得开发中集成功能时更快，简化或减少配置。
 #  社区文档
 -  [英文文档](http://projects.spring.io/spring-boot/)
+#  子项目说明
+- initial spring boot application 
+- complete spring boot restful
 
 # 注解
 - @Bean 标注在方法(返回某个实例的方法) ,等价于spring的xml配置文件中的<bean>，作用：注册bean对象.

@@ -9,8 +9,9 @@ Spring Boot是由Pivotal团队提供的全新框架，其设计目的是用来�
 #  社区文档
 -  [英文文档](http://projects.spring.io/spring-boot/)
 #  子项目说明
-- initial spring boot application 
-- complete spring boot restful
+- initial spring boot application  springboot 应用程序
+- complete spring boot restful restFul接口定义
+- consuming-rest  restFul 接口调用
 
 # 注解
 - @Bean 标注在方法(返回某个实例的方法) ,等价于spring的xml配置文件中的<bean>，作用：注册bean对象.
